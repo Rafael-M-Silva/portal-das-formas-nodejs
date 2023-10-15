@@ -9,7 +9,7 @@ Uma calculadora simples em JavaScript que calcula a área de várias formas geom
    git clone https://github.com/rafael-m-silva/portal-das-formas-nodejs.git
 
 ## 1 Navegue até o diretório do projeto:
-cd calculadora-areas
+cd portal-das-formas-nodejs
 
 ## 2 Execute o programa:
 node calculadora.js
